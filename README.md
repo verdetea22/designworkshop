@@ -23,5 +23,5 @@ b. What are patterns that might be useful?
   
 c. Design sketches: Use wireframes, storyboards, and flow maps to describe your problem.
 
-  Our design sketches have been added as a seperate entity within this repository. 
+     Our design sketches have been added as a seperate entity within this repository. 
 
