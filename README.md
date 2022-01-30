@@ -5,11 +5,11 @@ Describe the problems:
 
 a. What is the core problem each bot is trying to solve?
 
-     The core problem our solution will try to aid is user's financial awareness and practices. 
+     The core problem our bot will solve is the financial complexities of the user and suggest effective financial practices. 
      
 b. Why is it a problem worth solving?
 
-     Everyone has to find a balance between their saving and spending, anad most everyone can afford to have a greater sense of their financial standings and healthier financial habits. 
+     Everyone has to find a balance between their saving and spending, and most people can afford to have a greater sense of their financial standings and healthier financial habits. 
      
 -------------------------------------------------------------------------------------------------------------------------------------     
 Describe possible designs: 
